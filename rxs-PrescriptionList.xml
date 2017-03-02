@@ -1,3 +1,4 @@
 <prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
 	<prescription link="/zjns/rx-NeteaseCloudMusic" />
+	<prescription link="/zjns/rx-QQ" />
 </prescriptions>
